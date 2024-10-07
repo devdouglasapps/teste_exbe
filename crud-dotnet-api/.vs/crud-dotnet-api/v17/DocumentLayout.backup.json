@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|c:\\users\\douglas\\desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|c:\\users\\douglas\\desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\model\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|c:\\users\\douglas\\desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|c:\\users\\douglas\\desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|c:\\users\\douglas\\desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74D7E770-C9F9-4AEF-B173-FC4833B4E62D}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Model\\LoginDto.cs",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\Model\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Model\\LoginDto.cs",
+              "RelativeToolTip": "crud-dotnet-api\\Model\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:14:27.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "crud-dotnet-api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:59:34.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\appsettings.json",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\appsettings.json",
+              "RelativeToolTip": "crud-dotnet-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T03:56:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "crud-dotnet-api\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T00:54:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Douglas\\Desktop\\teste_tecnico_full_satck_angular_exbe1\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "crud-dotnet-api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:40:43.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
